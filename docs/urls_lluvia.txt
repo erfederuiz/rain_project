@@ -1,0 +1,8 @@
+https://datosclima.es/Aemet2013/Datosporestacion.html
+http://www.aemet.es/es/datos_abiertos/AEMET_OpenData
+
+
+http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
+https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2
+https://towardsdatascience.com/exploratory-data-analysis-with-python-1b8ae98a61c5
+
